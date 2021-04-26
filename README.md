@@ -30,7 +30,7 @@ This Project was developed during the NodeJS path in the fifth edition of NLW (N
 - Install all dependencies with `yarn`
 - Start the server with `yarn dev`
 
-You can access the app typing [`localhost:3333`](http://localhost:3333) on your favorite browser.
+You can access the app typing [`localhost:3333/pages/client`](http://localhost:3333/pages/client) on your favorite browser.
 
 ## 📄 License
 
